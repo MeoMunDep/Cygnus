@@ -2,7 +2,6 @@
 
 ## Introduction  
 **MeoMunDep Clicker** is a Tampermonkey script that automatically clicks on the [Cygnus Finance](https://i.cygnus.finance/) website.  
-The script performs 10 clicks every 500ms to automate interactions efficiently.  
 
 ## 🛠 Installation  
 ### 1️⃣ Install Tampermonkey  
