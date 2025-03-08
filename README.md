@@ -26,3 +26,14 @@ If it doesn't work, ensure Tampermonkey is enabled.
 Do not overuse the script to avoid detection! 🚀
 📢 If you find this useful, don't forget to ⭐ the repo!
 
+## Contact and Support
+
+- **Buy me a telegram account** [Here](https://t.me/KeoAirDropFreeNe/312/27801) or [Here](https://github.com/MeoMunDep/MeoMunDep)
+
+If you encounter any issues or have questions, feel free to reach out:
+
+- **Contact:** [Contact Me](https://t.me/MeoMunDep)
+- **Group:** [Join the Group](https://t.me/KeoAirDropFreeNe)
+- **Channel:** [Visit the Channel](https://t.me/KeoAirDropFreeNee)
+
+Your support is greatly appreciated! 🐱
