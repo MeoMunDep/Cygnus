@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         MeoMunDep clicker
+// @name         MeoMunDep Clicker
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  MeoMunDep clicker
